@@ -1,0 +1,16 @@
+div img {
+    width: 200px;
+    display: block;
+}
+
+button {
+    display: none;
+}
+
+.reviewButton {
+    display: block;
+}
+
+h2 {
+    color: red;
+}
