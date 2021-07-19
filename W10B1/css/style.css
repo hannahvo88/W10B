@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.items {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.item-image {
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+.item-details {
+    display: block;
+
+}
+
+.button {
+    display: block;
+    height: 30px;
+    width: 100px;
+}
